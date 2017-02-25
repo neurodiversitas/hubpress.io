@@ -4,7 +4,12 @@
     "repositoryName": "neurodiversitas.github.io",
     "branch": "master"
   },
+  "site": {
+    "title": "címmm",
+    "description": "leírássss"
+  },
+  "socialnetwork": {},
   "theme": {
-    "name": "Casper"
+    "name": "casper"
   }
 }
