@@ -1,5 +1,5 @@
-= egy 
+= Kik vagyunk? 
 :published_at: 2017-02-25
-:hp-tags: sor, szám
+:hp-tags: bemutatkozás
 
-megérett a meggy
+Mi vagyunk a rock, mi vagyunk az élet
