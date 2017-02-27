@@ -177,7 +177,8 @@ header .navbar-header h1 span, header .navbar-header h3 {
 }
 .banner img {
   width: 80%;
-  max-width: 600px;
+//  max-width: 600px;
+  max-width: 1300px;
 }
 
 .scrollpoint {
