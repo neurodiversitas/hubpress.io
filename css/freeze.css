@@ -892,7 +892,8 @@ header .navbar-default.scrolled ul.navbar-nav li a:hover:after {
   background: #7f8c8d;
 }
 header .navbar-default.scrolled .navbar-brand {
-  background: #7f8c8d;
+//  background: #7f8c8d;
+  background: #000000;
 }
 section .section-heading .divider:after {
   background: #e74c3c;
