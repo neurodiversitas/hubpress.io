@@ -157,12 +157,14 @@ header .navbar-default.scrolled ul.navbar-nav {
   padding-top: 15px;
 }
 header .navbar-header h1, header .navbar-header h3 span {
-  color: #e74c3c;
+//  color: #e74c3c;
+  color: #666666;
 }
 
 header .navbar-header h1 span, header .navbar-header h3 {
   //color: #ffffff;
-  color: #4081bf;
+  //color: #4081bf;
+  color: #e74c3c;
 }
 
 .banner{
