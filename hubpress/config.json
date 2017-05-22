@@ -9,7 +9,10 @@
     "description": "Az Idegrendszeri Sokszínűség Érvényesülésének Támogatásáért",
     "logo": "N.png"
   },
-  "socialnetwork": {},
+  "socialnetwork": {
+    "email": "info@neurodiversitas.hu",
+    "facebook": "https://www.facebook.com/Neurodiversitas-Alap%C3%ADtv%C3%A1ny-207721192961279/"
+  },
   "theme": {
     "name": "casper"
   }
